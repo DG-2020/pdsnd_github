@@ -88,7 +88,7 @@ def raw_data(df):
     while True:
         if answer == "no":
             break
-        # Slaiced DataFrame to get 5 rows at subsequent display request
+        # Sliced DataFrame to get 5 rows at subsequent display request
         print(df[i:i+5])
         answer = input(
             "Display subsequent set of 5 Rows of filtered Data upon request! Yes or No: ").lower()
