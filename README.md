@@ -8,7 +8,7 @@ Explore US Bike Share Data
 
 ### Description
 bikeshare incorporates a functionality to study the rental patterns among three US cities - 
-Chicago, NYC and Washington. The analysis focuses on -
+Chicago, New York City and Washington. The analysis focuses on -
 1. Rental patterns during throughout the week.
 2. Customer demographic affecting the rental. 
 3. Frequent time of travel, i.e., Month, Week, Day and Hour.
@@ -19,7 +19,7 @@ Chicago, NYC and Washington. The analysis focuses on -
 bikeshare.py - it is the main solution using Python to explore rental patterns for US Bike share data among three cities.
 
 (Non-committed data files)
-1. chicagocsv
+1. chicago.csv
 2. new_york_city.csv
 3. washington.csv
 
